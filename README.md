@@ -42,3 +42,8 @@ The final help page successfully guided users through the **Patient and Visit No
 
 ## Conclusion
 This case study highlights my ability to create instructional materials that are clear, concise, and user-friendly. The process underscored the importance of clarity, usability, and the value of incorporating feedback into instructional design.
+
+## 🌍 Explore More Projects  
+For more exciting machine learning and AI projects, visit **[The iVision](https://theivision.wordpress.com/)** and stay updated with the latest innovations and research! 🚀  
+
+---
